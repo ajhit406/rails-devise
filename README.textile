@@ -93,6 +93,14 @@ $ git clone git://github.com/RailsApps/rails-devise.git
 
 You'll need "git":http://git-scm.com/ on your machine. See "Rails and Git":http://railsapps.github.io/rails-git.html.
 
+h4. Nitrous Quickstart
+
+You can quickly create a rails-devise development environment in the cloud on Nitrous:
+
+<a href="https://www.nitrous.io/project/new" target="_blank">
+  <img src="https://nitrous-image-icons.s3.amazonaws.com/quickstart.svg" alt="Nitrous Quickstart" />
+</a>
+
 h4. Generate
 
 If you want to use the project as a starter application, use the "Rails Composer":http://railsapps.github.io/rails-composer/ tool to generate a new version of the example app. You'll be able to give it your own project name when you generate the app. Generating the application gives you additional options.

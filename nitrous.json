@@ -1,0 +1,7 @@
+{
+  "template": "rails",
+  "ports": [3000],
+  "name": "Rails Devise",
+  "logo": "",
+  "description": "Rails 4.2 starter app with Devise for authentication."
+}
