@@ -7,6 +7,10 @@ sudo apt-get clean
 
 cd ~/code/rails-devise
 
+# requires ruby 2.2.3
+rbenv install 2.2.3
+rbenv global 2.2.3
+
 # bundle install
 gem install bundler
 bundle install
