@@ -77,7 +77,7 @@ h2. Getting the Application
 
 h3. Local
 
-You have several options for getting the code on your own machine. You can _fork_, _clone_, or _generate_.
+You have several options for getting the code on your own machine. You can _fork_, _clone_, _generate_ or use _nitrous.io_.
 
 h4. Fork
 
@@ -95,7 +95,7 @@ You'll need "git":http://git-scm.com/ on your machine. See "Rails and Git":http:
 
 h4. Nitrous Quickstart
 
-You can quickly create a rails-devise development environment in the cloud on Nitrous:
+If you don't want to go through the hassle of installing things on your personal machine, you can quickly create a free rails-devise development environment in the cloud on Nitrous:
 <a href="https://www.nitrous.io/quickstart" target="_blank">
   <img src="https://nitrous-image-icons.s3.amazonaws.com/quickstart.svg" alt="Nitrous Quickstart" />
 </a>
